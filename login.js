@@ -19,4 +19,4 @@ export async function login (t){
 };
 
 
-// If pulled from github, the login information is ignored by git. If wanting to use this file one should write their own user Role.
+// If downloaded from github, the login information is ignored by git. If wanting to use this file one should write their own user Role.
