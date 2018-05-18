@@ -1,14 +1,15 @@
 {
-  "name": "convenant_testcafe",
+  "name": "convenant_generator_testcafe",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "A testcafe test of the Convenant Generator",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "testConv"
   },
-  "author": "",
+  "author": "Gijs",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.3.1",
     "testcafe": "^0.19.2"
   }
 }
